@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Document","Document Type"],["Number","A number type that implements Javascript / JSON semantics, modeled on serde_json: https://docs.serde.rs/src/serde_json/number.rs.html#20-22"]],"mod":[["error",""],["instant",""],["retry","This module defines types that describe when to retry given a response."]],"struct":[["Blob",""]]});

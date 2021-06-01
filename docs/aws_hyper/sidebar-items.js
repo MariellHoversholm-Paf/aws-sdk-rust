@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SdkError","Failing Sdk Result"]],"mod":[["conn",""],["test_connection",""]],"struct":[["Client","AWS Service Client"],["RetryConfig","Retry Policy Configuration"],["SdkSuccess","Successful Sdk Result"]],"type":[["StandardClient",""]]});

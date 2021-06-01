@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["StandardFuture","Future returned by `Standard` when used as a tower::Service"]],"struct":[["Standard",""]],"trait":[["HttpService",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["TestConnection","TestConnection for use with a `aws_hyper::Client`"],["ValidateRequest",""]]});
